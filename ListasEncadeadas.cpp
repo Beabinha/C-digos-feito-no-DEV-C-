@@ -20,7 +20,7 @@ void inicializaLista(Lista &L) {
 	L.proxUltimo = NULL;
 }
 
-// Verifica se a lista esta vazia ou n„o
+// Verifica se a lista esta vazia ou n√£o
 bool listaVazia(Lista L) {
 	return L.ultimo == NULL;
 }
